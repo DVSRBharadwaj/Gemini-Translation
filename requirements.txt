@@ -1,0 +1,6 @@
+googletrans==4.0.0-rc1 # translating from language to language
+pyttsx3 # text to speech translation
+streamlit
+google-generativeai
+
+# to run the packages --> pip install -r requirements.txt
